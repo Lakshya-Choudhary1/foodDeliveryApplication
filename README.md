@@ -1,4 +1,4 @@
-# STILL WORKING ON THIS PROJECT.
+# STATUS -> still working on this project.
 # 🍽️ Zomato Clone – MERN Stack with Reels-Style Video Feed
 
 A **full-stack Zomato-inspired food discovery platform** built with the **MERN stack**.
